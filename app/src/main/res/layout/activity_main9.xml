@@ -82,6 +82,4 @@
         android:textSize="20sp"
         android:backgroundTint="@color/black"
         android:text="Home" />
-
-
 </LinearLayout>
